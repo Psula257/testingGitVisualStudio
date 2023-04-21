@@ -4,7 +4,7 @@ public class testGit {
 		
 		System.out.println("Hola 1");
 		
-		System.out.println("Hola 2");
+		
 	}
 
 }
